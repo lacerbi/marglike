@@ -8,7 +8,7 @@ This technique has been proposed in Robert & Wraith (2009), and further develope
 
 1. Robert CP, Wraith D. (2009). Computational methods for Bayesian model choice. In P. M. Goggans, & C. Y. Chan (Eds.), *AIP Conference Proceedings* (Vol. 1193, No. 1, pp. 251-262). AIP.
 2. Acerbi L\*, Dokka K\*, Angelaki DE, Ma WJ (2018). Bayesian comparison of explicit and implicit causal inference strategies in multisensory heading perception.
-*PLoS Computational Biology* 14(7): e1006110. DOI: 10.1371/journal.pcbi.1006110 (*equal contribution)
+*PLoS Computational Biology* 14(7): e1006110. DOI: [10.1371/journal.pcbi.1006110](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006110) (*equal contribution)
 
 ### License
 
