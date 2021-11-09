@@ -2,13 +2,13 @@
 
 This repository will contain code to estimate the marginal likelihood, that is Pr(data|model), from the output of a MCMC sampler.
 
-This technique has been proposed in Robert & Wraith (2009), and further developed in Acerbi et al. (2017).
+This technique has been proposed in Robert & Wraith (2009), and further developed in Acerbi et al. (2018).
 
 ## References
 
-1. Robert, C. P., & Wraith, D. (2009). Computational methods for Bayesian model choice. In P. M. Goggans, & C. Y. Chan (Eds.), *AIP Conference Proceedings* (Vol. 1193, No. 1, pp. 251-262). AIP.
-2. Acerbi, L., Dokka, K., Angelaki, D. E. & Ma, W. J. (2017). Bayesian comparison of explicit and implicit causal inference strategies in  multisensory heading perception. *bioRxiv preprint*.
-
+1. Robert CP, Wraith D. (2009). Computational methods for Bayesian model choice. In P. M. Goggans, & C. Y. Chan (Eds.), *AIP Conference Proceedings* (Vol. 1193, No. 1, pp. 251-262). AIP.
+2. Acerbi L\*, Dokka K\*, Angelaki DE, Ma WJ (2018). Bayesian comparison of explicit and implicit causal inference strategies in multisensory heading perception.
+*PLoS Computational Biology* 14(7): e1006110. DOI: 10.1371/journal.pcbi.1006110 (*equal contribution)
 
 ### License
 
